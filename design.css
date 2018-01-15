@@ -1,0 +1,48 @@
+body{
+  background-image: url("image.jpg");
+  height: 150%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+div{
+  margin-top: 80px;
+  height: 650px;
+}
+
+button{
+    width: 100px;
+    height:100px;
+    font-size: 40px;
+    color: brown;
+    margin-right: 2px;
+    background:linear-gradient(rgb(255, 196, 0),coral);
+    border: 1px rebeccapurple solid;
+}
+
+table{
+ margin-right: auto;
+ margin-left: auto;
+}
+
+h1{
+  color:antiquewhite;
+  text-align: center;
+  font-family: Verdana;
+  font-size: 40px;
+  text-shadow: 3px 3px 9px black;
+}
+
+h3{
+  cursor: pointer;
+  text-align: center;
+  color:antiquewhite;
+  font-family: Verdana;
+  font-size: 20px;
+}
+
+#gameover{
+  zoom: 150%;
+  transition: zoom 10s ease-in-out;
+}
