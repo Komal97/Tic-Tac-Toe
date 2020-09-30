@@ -1,2 +1,2 @@
 # TicTacToe-JS
-A 2 player Tic-Tac-Toe game using javascript
+A classic 2 player Tic-Tac-Toe game using javascript
